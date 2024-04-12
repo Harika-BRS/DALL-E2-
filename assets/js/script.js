@@ -19,7 +19,7 @@ const carousel_items = document.querySelector('#carousel_items');
 const loader = document.querySelector('#loader');
 const openAiUrl = 'https://api.openai.com/v1/images/variations';
 const headers = {
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 }
 
 searchQuery.addEventListener('change', function() {
